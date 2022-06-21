@@ -1,0 +1,124 @@
+{
+  "photos": [
+    {
+      "id": 0,
+      "name": "Leopard",
+      "image": "images/a1.jpg",
+      "category": "animal",
+      "featured": true,
+      "description": ""
+    },
+    {
+      "id": 1,
+      "name": "Macaw",
+      "image": "images/a2.jpg",
+      "category": "animal",
+      "featured": true,
+      "description": ""
+    },
+    {
+      "id": 2,
+      "name": "Waterfall",
+      "image": "images/n1.jpg",
+      "category": "nature",
+      "featured": true,
+      "description": ""
+    },
+    {
+      "id": 3,
+      "name": "Sunset",
+      "image": "images/n2.jpg",
+      "category": "nature",
+      "featured": true,
+      "description": ""
+    },
+    {
+      "id": 4,
+      "name": "AI",
+      "image": "images/t1.jpg",
+      "category": "technology",
+      "featured": true,
+      "description": ""
+    },
+    {
+      "id": 5,
+      "name": "Tech World",
+      "image": "images/t2.jpg",
+      "category": "technology",
+      "featured": true,
+      "description": ""
+    }
+  ],
+  "comments": [
+    {
+      "photoId": 0,
+      "author": "Mk",
+      "comment": "Fearless!!!!",
+      "date": "2022-05-15T18:38:08.666Z",
+      "id": 30
+    },
+    {
+      "photoId": 4,
+      "author": "Mk",
+      "comment": "AI is future!!!!!",
+      "date": "2022-06-19T10:40:05.024Z",
+      "id": 32
+    },
+    {
+      "photoId": 5,
+      "author": "Mk",
+      "comment": "Technology has no border!!!",
+      "date": "2022-06-19T10:45:15.349Z",
+      "id": 33
+    },
+    {
+      "photoId": 2,
+      "author": "Mk",
+      "comment": "When water falls, it flies.",
+      "date": "2022-06-19T10:47:20.072Z",
+      "id": 34
+    },
+    {
+      "photoId": 2,
+      "author": "Rahat",
+      "comment": "Let this waterfall wash over me.",
+      "date": "2022-06-19T10:47:42.045Z",
+      "id": 35
+    },
+    {
+      "photoId": 1,
+      "author": "Mk",
+      "comment": "Colorfull Macaw!!!",
+      "date": "2022-06-19T10:48:55.212Z",
+      "id": 36
+    },
+    {
+      "photoId": 1,
+      "author": "Rockey",
+      "comment": "The magic of Macaw!!!",
+      "date": "2022-06-19T10:49:25.356Z",
+      "id": 37
+    },
+    {
+      "photoId": 3,
+      "author": "Mk",
+      "comment": "Every sunset brings the promise of a new dawn.",
+      "date": "2022-06-19T10:50:33.859Z",
+      "id": 38
+    },
+    {
+      "photoId": 3,
+      "author": "Jony",
+      "comment": "There's nothing like a beautiful sunset to end a healthy day.",
+      "date": "2022-06-19T10:51:31.931Z",
+      "id": 39
+    },
+    {
+      "photoId": 0,
+      "author": "Rahim",
+      "comment": "Superfast!!!",
+      "date": "2022-06-19T10:56:45.280Z",
+      "id": 40
+    }
+  ]
+}
